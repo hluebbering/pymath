@@ -1,5 +1,7 @@
 # pymath
 
+## Convergence of a Sequence of Functions
+
 ### Example 1. Pointwise Convergence
 
 ![](test.svg)
