@@ -1,6 +1,6 @@
 # pymath
 
-<img src="https://render.githubusercontent.com/render/math?math=f_n = \frac{nx \dotplus x^2}{n}">
+![](test.svg)
 
 <img src="https://render.githubusercontent.com/render/math?math=f(x) = \lim_{n \rightarrow \infty} f_{n}(x) = \lim_{n \rightarrow \infty} \left (\frac{n x \dotplus x^{2}}{n}\right )\mathtt{\text{ = }}x">
 
