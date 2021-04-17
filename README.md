@@ -11,6 +11,8 @@ Thus, <img src="https://render.githubusercontent.com/render/math?math=(f_n)"> co
 
 ### Example 2. Uniform Convergence
 
+![](test2.svg)
+
 For any fixed <img src="https://render.githubusercontent.com/render/math?math=x \in \mathbb R">, we can see that <img src="https://render.githubusercontent.com/render/math?math=\lim f_n(x) = 0"> so that <img src="https://render.githubusercontent.com/render/math?math=f(x) = 0"> is the pointwise limit of the sequence <img src="https://render.githubusercontent.com/render/math?math=(f_n)"> on <img src="https://render.githubusercontent.com/render/math?math=\mathbb R">. **Is this convergence uniform?** The observation that <img src="https://render.githubusercontent.com/render/math?math=1/(1 \dotplus x^2) \leq 1 \ , \ \forall x \in \mathbb R"> implies that
 
 <img src="https://render.githubusercontent.com/render/math?math=|f_n(x) - f(x)| = \left|\frac{1}{1 \dotplus x^2} - 0\right| \leq \frac{1}{n^2}">
